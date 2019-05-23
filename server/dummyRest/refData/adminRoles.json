@@ -1,0 +1,13 @@
+{
+  type: "userRoles",
+  lastUpdated: "never",
+  roles: [{
+    name: "Admin",
+    value: "admin",
+    desc:""
+  }, {
+    name: "Examinee",
+    value: "examinee",
+    desc:""
+  }]
+}

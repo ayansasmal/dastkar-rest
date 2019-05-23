@@ -1,0 +1,77 @@
+{
+  "questions": [
+    {
+      "id": "",
+      "mark": "",
+      "topics": "",
+      "statement": {
+        "type": "text",
+        "plainText": "",
+        "composite": {}
+      },
+      "type": "singleChoice",
+      "options": [
+        {
+          "mark": "",
+          "value": ""
+        },
+        {
+          "mark": "",
+          "value": ""
+        },
+        {
+          "mark": "",
+          "value": ""
+        },
+        {
+          "mark": "",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "mark": "",
+      "topics": "",
+      "statement": {
+        "type": "composite",
+        "plainText": "",
+        "composite": {}
+      },
+      "type": "multiChoice",
+      "options": [
+        {
+          "mark": "",
+          "value": ""
+        },
+        {
+          "mark": "",
+          "value": ""
+        },
+        {
+          "mark": "",
+          "value": ""
+        },
+        {
+          "mark": "",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "",
+      "mark": "",
+      "topics": "",
+      "statement": {
+        "type": "composite",
+        "plainText": "",
+        "composite": {}
+      },
+      "type": "input",
+      "input": {
+        "rule": "characters",
+        "answer": ""
+      }
+    }
+  ]
+}
