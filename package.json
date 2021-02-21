@@ -1,0 +1,19 @@
+{
+  "name": "dastkar-rest",
+  "version": "1.0.0",
+  "description": "Group of apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayansasmal/dastkar-rest.git"
+  },
+  "author": "Ayan Sasmal, ayandelhi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayansasmal/dastkar-rest/issues"
+  },
+  "homepage": "https://github.com/ayansasmal/dastkar-rest#readme"
+}
